@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -g -I./src # -I./src allows #include "header.h"
 LDFLAGS =
-TARGET = tcp_sender_macos
+TARGET = rawp
 
 SRC_DIR = src
 BUILD_DIR = build
