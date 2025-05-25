@@ -10,6 +10,8 @@ Craft and send custom TCP packets with manual IP/TCP headers and checksums.
 * C99-compatible compiler
 * POSIX-compliant OS (e.g., Linux or macOS)
 
+> Tested on Kali (Debian). MacOS is wip.
+
 ## Build
 
 ```sh
